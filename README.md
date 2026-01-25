@@ -4,7 +4,7 @@ La repositories contiene 4 file di cui:
      - verifica,
      - validazione
      - simulazione orizzonte finito
-     - Transiotrio
+     - Transitorio
   - PMCSNConsegna.ipynb: E' il codice con le librerie comprese
   - VerificaMigliorativo.ipynb: Verifica del modello base e migliorativo approfondita per la scelta del numero dei batch e della batch size
   - Relazione Progetto PMCSN.pdf: Relazione del progetto con tanto di dettagli
