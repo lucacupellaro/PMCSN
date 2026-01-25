@@ -7,4 +7,4 @@ La repositories contiene 4 file di cui:
      - Transiotrio
   - PMCSNConsegna.ipynb: E' il codice con le librerie comprese
   - VerificaMigliorativo.ipynb: Verifica del modello base e migliorativo approfondita per la scelta del numero dei batch e della batch size
-  - Relazione del progetto con tanto di dettagli
+  - Relazione Progetto PMCSN.pdf: Relazione del progetto con tanto di dettagli
